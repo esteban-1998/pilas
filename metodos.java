@@ -27,7 +27,9 @@ return pilas;
             System.out.println("color: " + o.getColor());
             System.out.println("precio: "+ o.getPreecio());
             System.out.println();
+            System.out.println();
         }
+
         
     }
         
